@@ -1,0 +1,49 @@
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-color: green;
+  border-width: 5px;
+  height: 0px;
+  width: 5%;
+
+}
+
+img {
+  height: 180px;
+}
+
+h1, h2, h3 {
+  color: #A52A2A;
+  margin: 50px auto;
+}
+
+p {
+  line-height: 2;
+}
+
+.info {
+  margin: 10px 20px;
+  padding: 5px;
+  position: relative;
+  top: 20px;
+}
+
+.works {
+  position: relative;
+  left: 50px;
+}
+
+.intro {
+  position: relative;
+  bottom: 30px;
+}
+
+.tabela2 {
+  position: relative;
+  left: 380px;
+  bottom: 130px;
+
+}
